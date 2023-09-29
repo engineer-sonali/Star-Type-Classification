@@ -22,4 +22,4 @@ The dataset is trained using Logistic Regression, KNN and Deep Neural Network al
 
 ![result](https://github.com/engineer-sonali/Star-Type-Classification/assets/71033672/321b4b50-53cf-48f7-9d91-1a1f0b95a1fa)
 
-The main goal was to understand the working of Logistic Regression , KNN and Deep Neural Network for classification problems of star type dataset. As shown in the result, we are convinced that Logistic Regression based classification gives better accuracy as compared to Deep Neural Network and KNN. 
+The main goal was to understand the working of Logistic Regression , KNN and Deep Neural Network for classification problems of star type dataset. As shown in the result, we are convinced that Logistic Regression based classification gives better accuracy as compared to Deep Neural Network and KNN for the above problem. 
